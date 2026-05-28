@@ -1,9 +1,9 @@
-https://capsule-render.vercel.app/api?type=soft&height=300&color=&color=B3B3B3&text=singthesong2%20Dev%20GitHub&fontSize=50&descAlign=60&reversal=true&section=header&textBg=false&animation=twinkling
+![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=&color=B3B3B3&text=singthesong2%20Dev%20GitHub&fontSize=50&descAlign=60&reversal=true&section=header&textBg=false&animation=twinkling)
 
 <!--
-👋
-**singthesong2/singthesong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**singthesong2/singthesong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
