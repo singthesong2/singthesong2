@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=29&pause=1000&color=626262&center=true&vCenter=true&repeat=false&width=850&lines=Hello+world!!%F0%9F%91%8B)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=singthesong2&color=grey&style=flat-square)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,eclipse,unreal,unity,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,eclipse,unreal,unity,notion,github)](https://skillicons.dev)
 
 <!--
 
