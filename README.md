@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&height=200&color=&color=B3B3B3&text=singthesong2%20Dev%20GitHub&fontSize=50&descAlign=60&reversal=true&section=header&textBg=false&animation=twinkling)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=29&pause=1000&color=626262&center=true&vCenter=true&repeat=false&width=600&lines=Hello+world!!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
 
