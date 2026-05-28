@@ -1,4 +1,4 @@
-[## Hi there ](https://capsule-render.vercel.app/api?type=soft&height=300&color=&color=B3B3B3&text=singthesong2%20Dev%20GitHub&fontSize=50&descAlign=60&reversal=true&section=header&textBg=false&animation=twinkling)
+(https://capsule-render.vercel.app/api?type=soft&height=300&color=&color=B3B3B3&text=singthesong2%20Dev%20GitHub&fontSize=50&descAlign=60&reversal=true&section=header&textBg=false&animation=twinkling)
 
 <!--
 👋
